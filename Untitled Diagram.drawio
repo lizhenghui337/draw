@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-08T09:50:51.546Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="djX5KJLBJPvcAcmfYrJh" version="16.5.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-08T09:53:53.839Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="8WQPkhWzqusWaxaNiDt7" version="16.5.6" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="782" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -33,13 +33,11 @@
         <mxCell id="_pQ_e1QaEOG_pFHMruiR-19" value="删除家庭" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="560" y="60" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="_pQ_e1QaEOG_pFHMruiR-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1" source="_pQ_e1QaEOG_pFHMruiR-41">
+        <mxCell id="_pQ_e1QaEOG_pFHMruiR-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1" target="_pQ_e1QaEOG_pFHMruiR-42" source="_pQ_e1QaEOG_pFHMruiR-41">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="395.0000000000002" y="770" as="sourcePoint" />
             <mxPoint x="390" y="848" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="390" y="848" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_pQ_e1QaEOG_pFHMruiR-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_pQ_e1QaEOG_pFHMruiR-31" edge="1">
@@ -65,7 +63,7 @@
           <mxGeometry x="90" y="860" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_pQ_e1QaEOG_pFHMruiR-42" value="&lt;span&gt;用户设备关联关系设置为不可用状态&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="305" y="850" width="170" height="80" as="geometry" />
+          <mxGeometry x="305" y="860" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mwSsWJYTHsI-j-IHyEZh-0" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mwSsWJYTHsI-j-IHyEZh-1" target="_pQ_e1QaEOG_pFHMruiR-13">
           <mxGeometry relative="1" as="geometry">
@@ -75,8 +73,8 @@
         <mxCell id="mwSsWJYTHsI-j-IHyEZh-1" value="管理员删除家庭成员" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="110" y="60" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="_pQ_e1QaEOG_pFHMruiR-41" value="&lt;span&gt;把状态为启用状态的用户设备关联关系同步到微信侧（applianceCode、sn、model_id）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="290" y="730" width="200" height="80" as="geometry" />
+        <mxCell id="_pQ_e1QaEOG_pFHMruiR-41" value="&lt;span&gt;把用户设备关联关系同步到微信侧&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="290" y="730" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mwSsWJYTHsI-j-IHyEZh-3" value="用户可以操作设备卡片？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="270" y="480" width="240" height="60" as="geometry" />
@@ -152,6 +150,9 @@
           <mxGeometry x="-0.8388" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="mwSsWJYTHsI-j-IHyEZh-22" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="385" y="680" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
