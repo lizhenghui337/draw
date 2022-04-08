@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-08T09:58:32.225Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="BTWQdfB7s6m7uOVg9WBa" version="16.5.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-08T14:12:21.622Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="ytQ16N04XSVs-iiDhEfT" version="16.5.6" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="782" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -199,7 +199,7 @@
         <mxCell id="ZQ5sLWQPbgrIGB6cAGuS-11" value="end" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="xnfBkbnaAbSrt4galfbC-1">
           <mxGeometry x="130" y="1580" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZQ5sLWQPbgrIGB6cAGuS-12" value="&lt;span&gt;用户设备关联关系设置为不可用状态&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="xnfBkbnaAbSrt4galfbC-1">
+        <mxCell id="ZQ5sLWQPbgrIGB6cAGuS-12" value="&lt;span&gt;用户设备关联关系设置为可用状态&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="xnfBkbnaAbSrt4galfbC-1">
           <mxGeometry x="345" y="1580" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZQ5sLWQPbgrIGB6cAGuS-15" value="&lt;span&gt;把用户设备关联关系同步到微信侧&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="xnfBkbnaAbSrt4galfbC-1">
@@ -207,17 +207,6 @@
         </mxCell>
         <mxCell id="ZQ5sLWQPbgrIGB6cAGuS-16" value="用户可以操作设备卡片？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="xnfBkbnaAbSrt4galfbC-1">
           <mxGeometry x="310" y="1200" width="240" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ZQ5sLWQPbgrIGB6cAGuS-17" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="xnfBkbnaAbSrt4galfbC-1" source="ZQ5sLWQPbgrIGB6cAGuS-16" target="ZQ5sLWQPbgrIGB6cAGuS-9">
-          <mxGeometry y="20" relative="1" as="geometry">
-            <mxPoint as="offset" />
-            <mxPoint x="440" y="1280" as="targetPoint" />
-            <mxPoint x="440" y="1150" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="430" y="1280" />
-              <mxPoint x="430" y="1280" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="ZQ5sLWQPbgrIGB6cAGuS-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="xnfBkbnaAbSrt4galfbC-1" source="ZQ5sLWQPbgrIGB6cAGuS-9" target="ZQ5sLWQPbgrIGB6cAGuS-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -234,7 +223,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZQ5sLWQPbgrIGB6cAGuS-23" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZQ5sLWQPbgrIGB6cAGuS-22">
+        <mxCell id="ZQ5sLWQPbgrIGB6cAGuS-23" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZQ5sLWQPbgrIGB6cAGuS-22">
           <mxGeometry x="-0.5474" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -268,6 +257,15 @@
         <mxCell id="ZQ5sLWQPbgrIGB6cAGuS-28" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZQ5sLWQPbgrIGB6cAGuS-27">
           <mxGeometry x="0.2479" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZQ5sLWQPbgrIGB6cAGuS-29" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="xnfBkbnaAbSrt4galfbC-1">
+          <mxGeometry x="399" y="1280" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQ5sLWQPbgrIGB6cAGuS-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="xnfBkbnaAbSrt4galfbC-1" source="ZQ5sLWQPbgrIGB6cAGuS-16" target="ZQ5sLWQPbgrIGB6cAGuS-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="1290" as="sourcePoint" />
+            <mxPoint x="430" y="1240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
