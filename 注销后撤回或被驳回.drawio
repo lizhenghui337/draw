@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-08T14:14:14.332Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="RjxrSjVEceg5iiUm8UAl" version="16.5.6" type="github" pages="2">
-  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="782" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2022-04-13T01:17:57.965Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="JZZUmzqmKzfjthJpbssi" version="17.4.1" type="github" pages="3">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="删除退出家庭">
+    <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -157,8 +157,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="TbTuktDpPzWPJ1on0Ahq" name="Page-2">
-    <mxGraphModel dx="782" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="TbTuktDpPzWPJ1on0Ahq" name="撤回注销或被驳回">
+    <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="xnfBkbnaAbSrt4galfbC-0" />
         <mxCell id="xnfBkbnaAbSrt4galfbC-1" parent="xnfBkbnaAbSrt4galfbC-0" />
@@ -267,6 +267,232 @@
             <mxPoint x="380" y="1290" as="sourcePoint" />
             <mxPoint x="430" y="1240" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="HTFeCkir3lPyPk4nvGHC" name="设备状态变更">
+    <mxGraphModel dx="2249" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9eau8agvKqASeif3AoJr-1" value="设备解绑事件（单个）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="200" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9eau8agvKqASeif3AoJr-2" value="设备家庭信息修改（单个）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="200" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9eau8agvKqASeif3AoJr-3" value="设备解绑事件（批量）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-72.5" y="200" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9eau8agvKqASeif3AoJr-4" value="设备家庭信息修改（批量）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="200" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9eau8agvKqASeif3AoJr-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9eau8agvKqASeif3AoJr-7" target="9eau8agvKqASeif3AoJr-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="930" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="810" />
+              <mxPoint x="450" y="810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9eau8agvKqASeif3AoJr-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" edge="1" parent="1" source="9eau8agvKqASeif3AoJr-16" target="9eau8agvKqASeif3AoJr-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="110" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9eau8agvKqASeif3AoJr-7" value="设备是否被注册到微信设备卡片" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="135" y="400" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9eau8agvKqASeif3AoJr-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.452;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9eau8agvKqASeif3AoJr-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="387.5" y="240" as="sourcePoint" />
+            <mxPoint x="5.640000000000327" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9eau8agvKqASeif3AoJr-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="9eau8agvKqASeif3AoJr-4" target="9eau8agvKqASeif3AoJr-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="240" as="sourcePoint" />
+            <mxPoint x="430" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9eau8agvKqASeif3AoJr-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9eau8agvKqASeif3AoJr-1" target="9eau8agvKqASeif3AoJr-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="240" as="sourcePoint" />
+            <mxPoint x="430" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9eau8agvKqASeif3AoJr-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9eau8agvKqASeif3AoJr-2" target="9eau8agvKqASeif3AoJr-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="240" as="sourcePoint" />
+            <mxPoint x="430" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9eau8agvKqASeif3AoJr-12" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="245" y="720" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9eau8agvKqASeif3AoJr-13" value="end" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9eau8agvKqASeif3AoJr-14" value="设备是否被注册到微信设备卡片" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="387.5" y="400" width="185" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9eau8agvKqASeif3AoJr-15" value="设备是否被注册到微信设备卡片" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="400" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9eau8agvKqASeif3AoJr-16" value="设备是否被注册到微信设备卡片" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="400" width="195" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9eau8agvKqASeif3AoJr-17" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="75" y="570" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9eau8agvKqASeif3AoJr-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" edge="1" parent="1" target="9eau8agvKqASeif3AoJr-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="344.99999999999955" y="440" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="350" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9eau8agvKqASeif3AoJr-19" value="end" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9eau8agvKqASeif3AoJr-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" edge="1" parent="1" target="9eau8agvKqASeif3AoJr-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="574.9999999999995" y="440" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="580" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9eau8agvKqASeif3AoJr-21" value="end" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9eau8agvKqASeif3AoJr-22" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="545" y="570" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9eau8agvKqASeif3AoJr-23" value="end" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="755" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9eau8agvKqASeif3AoJr-24" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="785" y="570" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9eau8agvKqASeif3AoJr-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="9eau8agvKqASeif3AoJr-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1" y="480" as="sourcePoint" />
+            <mxPoint x="-1" y="930" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1" y="900" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9eau8agvKqASeif3AoJr-26" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry y="720" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9eau8agvKqASeif3AoJr-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="9eau8agvKqASeif3AoJr-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="480" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9eau8agvKqASeif3AoJr-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9eau8agvKqASeif3AoJr-29" target="9eau8agvKqASeif3AoJr-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9eau8agvKqASeif3AoJr-29" value="查询用户添加设备卡片信息" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9eau8agvKqASeif3AoJr-30" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="485" y="720" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9eau8agvKqASeif3AoJr-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="9eau8agvKqASeif3AoJr-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="480" as="sourcePoint" />
+            <mxPoint x="720" y="910" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="720" y="900" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9eau8agvKqASeif3AoJr-32" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="725" y="720" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9eau8agvKqASeif3AoJr-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="9eau8agvKqASeif3AoJr-34" target="9eau8agvKqASeif3AoJr-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="1420" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9eau8agvKqASeif3AoJr-34" value="把状态为可用状态的用户设备关联关系同步到微信侧" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1330" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9eau8agvKqASeif3AoJr-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="809.9999999999995" y="440" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="815" y="440" />
+            </Array>
+            <mxPoint x="815" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9eau8agvKqASeif3AoJr-36" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="85" y="580" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9eau8agvKqASeif3AoJr-37" value="把本地用户设备关联关系置为不可用状态" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1490" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9eau8agvKqASeif3AoJr-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9eau8agvKqASeif3AoJr-41" target="9eau8agvKqASeif3AoJr-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9eau8agvKqASeif3AoJr-39" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9eau8agvKqASeif3AoJr-38">
+          <mxGeometry x="0.2356" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9eau8agvKqASeif3AoJr-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9eau8agvKqASeif3AoJr-41" target="9eau8agvKqASeif3AoJr-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9eau8agvKqASeif3AoJr-41" value="是否存在用户添加设备到设备微信卡片？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1000" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9eau8agvKqASeif3AoJr-42" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="485" y="1100" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="9eau8agvKqASeif3AoJr-43" value="end" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="135" y="1500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9eau8agvKqASeif3AoJr-44" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9eau8agvKqASeif3AoJr-37" target="9eau8agvKqASeif3AoJr-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="1560" as="sourcePoint" />
+            <mxPoint x="490" y="1510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9eau8agvKqASeif3AoJr-45" value="用户添加设备卡片状态是可用？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1160" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9eau8agvKqASeif3AoJr-46" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="9eau8agvKqASeif3AoJr-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="1240" as="sourcePoint" />
+            <mxPoint x="510" y="1210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9eau8agvKqASeif3AoJr-47" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9eau8agvKqASeif3AoJr-45" target="9eau8agvKqASeif3AoJr-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="1260" as="sourcePoint" />
+            <mxPoint x="670" y="1040" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="670" y="1200" />
+              <mxPoint x="670" y="1040" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9eau8agvKqASeif3AoJr-48" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9eau8agvKqASeif3AoJr-47">
+          <mxGeometry x="-0.0691" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9eau8agvKqASeif3AoJr-49" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="475" y="1270" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
