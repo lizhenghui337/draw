@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-17T09:05:24.821Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="-hCCZO3knXn0iPyPXbcs" version="17.4.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-04-24T03:00:23.333Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="pt4Q-TN8h8dYhngSmrQO" version="17.4.4" type="github" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="删除退出家庭">
     <mxGraphModel dx="782" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -720,7 +720,7 @@
         <mxCell id="o43FSoy_OmyfSq_FZUJw-157" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="485" y="1280" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="o43FSoy_OmyfSq_FZUJw-158" value="家电信息修改" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="o43FSoy_OmyfSq_FZUJw-158" value="设备转移事件" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-292.5" y="210" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="o43FSoy_OmyfSq_FZUJw-159" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" parent="1" source="o43FSoy_OmyfSq_FZUJw-162" target="o43FSoy_OmyfSq_FZUJw-161" edge="1">
@@ -760,6 +760,14 @@
         <mxCell id="o43FSoy_OmyfSq_FZUJw-166" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="355" y="570" width="30" height="20" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="iUl8u5EodhLYMQqsJAu2" name="Page-5">
+    <mxGraphModel dx="782" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
