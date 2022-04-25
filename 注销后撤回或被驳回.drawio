@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-24T03:00:23.333Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="pt4Q-TN8h8dYhngSmrQO" version="17.4.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-04-25T09:55:50.058Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="mMvZqLX-Xs_JLLcyhRN1" version="17.4.4" type="github" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="删除退出家庭">
     <mxGraphModel dx="782" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -245,7 +245,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZQ5sLWQPbgrIGB6cAGuS-26" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="xnfBkbnaAbSrt4galfbC-1" vertex="1">
+        <mxCell id="ZQ5sLWQPbgrIGB6cAGuS-26" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="xnfBkbnaAbSrt4galfbC-1" vertex="1">
           <mxGeometry x="425" y="1400" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZQ5sLWQPbgrIGB6cAGuS-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="xnfBkbnaAbSrt4galfbC-1" source="ZQ5sLWQPbgrIGB6cAGuS-9" target="ZQ5sLWQPbgrIGB6cAGuS-11" edge="1">
@@ -257,7 +257,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZQ5sLWQPbgrIGB6cAGuS-28" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ZQ5sLWQPbgrIGB6cAGuS-27" vertex="1" connectable="0">
+        <mxCell id="ZQ5sLWQPbgrIGB6cAGuS-28" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ZQ5sLWQPbgrIGB6cAGuS-27" vertex="1" connectable="0">
           <mxGeometry x="0.2479" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
