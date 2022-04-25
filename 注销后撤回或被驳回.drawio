@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-25T10:20:22.464Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="VoUvWfPX-cQWbFQ4vKXs" version="17.4.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-04-25T10:21:59.751Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="JhYFQWoB6hLkq-xaqTkd" version="17.4.4" type="github" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="删除退出家庭">
     <mxGraphModel dx="782" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -501,7 +501,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5_1ja_2OBQyPq9Wt_PJu" name="设备状态变更新">
-    <mxGraphModel dx="1609" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1944" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
